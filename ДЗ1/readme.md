@@ -1,5 +1,5 @@
 # Event Storming
-https://miro.com/app/board/uXjVK70-GU4=/?share_link_id=933162922004
+https://miro.com/app/board/uXjVK70-GU4=/?share_link_id=933162922004  
 Остальные диаграммы в текущей директории с ДЗ.
 
 # Разделение на контексты
