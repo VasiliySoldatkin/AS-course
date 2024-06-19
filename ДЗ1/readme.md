@@ -1,3 +1,5 @@
+https://github.com/VasiliySoldatkin/AS-course/pull/1 - MR для комментариев
+
 # Event Storming
 https://miro.com/app/board/uXjVK70-GU4=/?share_link_id=933162922004  
 Остальные диаграммы в текущей директории с ДЗ.
