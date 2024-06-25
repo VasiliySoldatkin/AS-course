@@ -1,6 +1,7 @@
 # ES
-https://miro.com/app/board/uXjVK5PUXrU=/
-Картинка ![Модель поддоменов](./ДЗ2subdomain.png)
+[https://miro.com/app/board/uXjVK5PUXrU=/](https://miro.com/app/board/uXjVK5PUXrU=/?share_link_id=130779928944)
+
+![Модель поддоменов](./ДЗ2subdomain.png)
 ![image](https://github.com/VasiliySoldatkin/AS-course/assets/34882906/437331d6-d239-4ed7-90d1-6f66e5c07a3e)
 
 # Основная проблема (Domain)
